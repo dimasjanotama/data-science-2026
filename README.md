@@ -11,19 +11,19 @@ Halo Perkenalkan saya Dimas. Saya merupakan praktisi IT dan bekerja di bidang IT
 Dalam repository ini merupakan aktivitas praktik dan hands-on yang saya lakukan pada sesi 1-7. Pada repository ini pada setiap notebook per Sesi terdapat sel Jawaban dan juga sel Penjelasan. 
 
 ## List pertemuan
-Sesi 1 : [Pengenalan Data Science](https://github.com/dimasjanotama/data-science-2026/blob/563ce871406e61697a4545bf1e72842ea1297d59/Pertemuan1_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 1 : [Pengenalan Data Science](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan1_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
-Sesi 2 : [Struktur Data Python, NumPy & Pandas](https://github.com/dimasjanotama/data-science-2026/blob/563ce871406e61697a4545bf1e72842ea1297d59/Pertemuan2_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 2 : [Struktur Data Python, NumPy & Pandas](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan2_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
-Sesi 3 : [Data Cleaning: Missing, Outlier & Ekstraksi](https://github.com/dimasjanotama/data-science-2026/blob/563ce871406e61697a4545bf1e72842ea1297d59/Pertemuan3_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 3 : [Data Cleaning: Missing, Outlier & Ekstraksi](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan3_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
-Sesi 4 : [Statistika Dasar & Analisis Data](https://github.com/dimasjanotama/data-science-2026/blob/563ce871406e61697a4545bf1e72842ea1297d59/Pertemuan4_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 4 : [Statistika Dasar & Analisis Data](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan4_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
-Sesi 5 : [Visualisasi Data](https://github.com/dimasjanotama/data-science-2026/blob/563ce871406e61697a4545bf1e72842ea1297d59/Pertemuan5_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 5 : [Visualisasi Data](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan5_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
-Sesi 6 : [Persiapan Data](https://github.com/dimasjanotama/data-science-2026/blob/563ce871406e61697a4545bf1e72842ea1297d59/Pertemuan6_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 6 : [Persiapan Data](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan6_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
-Sesi 7 : [Pengantar Machine Learning: Regresi Linier](https://github.com/dimasjanotama/data-science-2026/blob/563ce871406e61697a4545bf1e72842ea1297d59/Pertemuan7_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 7 : [Pengantar Machine Learning: Regresi Linier](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan7_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
 ## Tools dan library yang digunakan
 - Python
