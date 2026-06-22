@@ -23,7 +23,7 @@ Sesi 5 : [Visualisasi Data](https://github.com/dimasjanotama/data-science-2026/b
 
 Sesi 6 : [Persiapan Data](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan6_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
 
-Sesi 7 : [Pengantar Machine Learning: Regresi Linier](https://github.com/dimasjanotama/data-science-2026/blob/main/Pertemuan7_%5BDimas_Janotama%5D_%5B240401010264%5D.ipynb)
+Sesi 7 : [Pengantar Machine Learning: Regresi Linier]()
 
 ## Tools dan library yang digunakan
 - Python
